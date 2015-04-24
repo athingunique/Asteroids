@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EAB_PROJECT03:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EAB_PROJECT03_jar</output-path>
+    <root id="archive" name="EAB_PROJECT03.jar">
+      <element id="module-output" name="EAB_PROJECT03" />
+    </root>
+  </artifact>
+</component>

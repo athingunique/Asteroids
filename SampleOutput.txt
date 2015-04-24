@@ -1,0 +1,36 @@
+Sample output:
+Results of testing model Classes.
+
+$ ./test.sh 
+
+Testing...
+Testing AsteroidsMath
+Here's a random from 5 to 10: 9.711237489025681
+Passed separation test
+Testing GameKeeper
+GameKeeper passed score test
+GameKeeper passed asteroid add test
+GameKeeper passed missile add test
+GameKeeper passed bomb add test
+GameKeeper passed tests
+Testing that the KeyPress recognizes valid keys...
+Key event valid
+Key event valid
+Key event valid
+Key event valid
+Key event valid
+Key event valid
+Key event valid
+Key event valid
+Key event valid
+KeyPress passed
+Movement passed tests
+Testing timer thread, will tick once per second for 5 seconds, then die.
+Timer thread ticked.
+Timer thread ticked.
+Timer thread ticked.
+Timer thread ticked.
+Timer thread ticked.
+Timer thread ticked.
+
+$ 
